@@ -3,7 +3,7 @@
 
 # <codecell>
 
-#Seminario 
+#Seminario 2
 #Juan Garcia y Braulio Pareja
 # Vamos a desarrollar el programa de Python que nos permita, a partir de una lista de 
 #palabras, encontrar la lista más larga posible de palabras de manera que la última letra de 
