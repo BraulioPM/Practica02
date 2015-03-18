@@ -47,12 +47,4 @@ for elemento in lista:
 print lista3
 print "Palabras: ",len(lista3)
 
-# <codecell>
-
-
-# <codecell>
-
-
-# <codecell>
-
 
